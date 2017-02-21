@@ -92,10 +92,11 @@ thumbnail-chd img {
 .fd-back {
     background-color: lemonchiffon;
     padding: 70px;
+    width:
 }
 
 .container-food {
-    width: 1200px;
+    width: 1000px;
     margin: 0 auto;
     overflow: auto;
     border-radius: 10px;
