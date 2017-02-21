@@ -32,19 +32,12 @@ blockquote {
     width: 1000px;
     margin: 0 auto;
     overflow: auto;
+    border: 1px solid black;
 }
 
 .blank {
     padding: 80px;
     margin: 0 auto;
-}
-
-.container-food {
-    width: 1200px;
-    margin: 0 auto;
-    overflow: auto;
-    border-radius: 10px;
-    background-color: white;
 }
 
 [class^="col-"] {
